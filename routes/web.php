@@ -28,3 +28,7 @@ Route::get('/services', function () {
 Route::get('/contact', function () {
     return view('contact');
 })-> name('contacto');
+
+Route::get('/temas', function () {
+    return view('layout.layoutemas');
+})-> name('layout');
