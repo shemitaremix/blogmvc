@@ -27,8 +27,8 @@ https://templatemo.com/tm-550-diagoona
                     <div class="tm-site-header media">
                         <i class="fas fa-umbrella-beach fa-3x mt-1 tm-logo"></i>
                         <div class="media-body">
-                            <h1 class="tm-sitename text-uppercase">diagoona</h1>
-                            <p class="tm-slogon">new bootstrap template</p>
+                            <h1 class="tm-sitename text-uppercase">INGENIERIA</h1>
+                            <p class="tm-slogon">EN SOFTWARE</p>
                         </div>        
                     </div>
                 </div>
@@ -42,7 +42,7 @@ https://templatemo.com/tm-550-diagoona
                         <div class="collapse navbar-collapse tm-nav" id="navbar-nav">
                             <ul class="navbar-nav text-uppercase">
                                 <li class="nav-item active">
-                                    <a class="nav-link tm-nav-link" href="{{route('principal')}}">Home</a>
+                                    <a class="nav-link tm-nav-link" href="{{route('principal')}}">Inicio</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link tm-nav-link" href="{{route('sobre')}}">About</a>
@@ -51,7 +51,7 @@ https://templatemo.com/tm-550-diagoona
                                     <a class="nav-link tm-nav-link" href="{{route('serv')}}">Services</a>
                                 </li>                            
                                 <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="{{route('contacto')}}">Contact</a>
+                                    <a class="nav-link tm-nav-link" href="{{route('contacto')}}">Contacto</a>
                                 </li>
                             </ul>                            
                         </div>                        
@@ -63,10 +63,10 @@ https://templatemo.com/tm-550-diagoona
                 <div class="tm-col-left"></div>
                 <main class="tm-col-right">
                     <section class="tm-content">
-                        <h2 class="mb-5 tm-content-title">Diagoona HTML Template</h2>
-                        <p class="mb-5">Diagoona is provided by TemplateMo website. You are allowed to use this template for your websites. You are NOT allowed to redistribute this template ZIP file for a download purpose on any template collection website.</p>
+                        <h2 class="mb-5 tm-content-title">¿que es la ingenieria en software?</h2>
+                        <p class="mb-5">es una disciplina que implica el uso de estructuras, herramientas y técnicas para construir programas informáticos.</p>
                         <hr class="mb-5">
-                        <p class="mb-5">Diagoona is Bootstrap v4.4.1 layout. This BG is 50% transparent. You can set the background images auto play settings (true or false in line number 33) in templatemo-script.js file in js folder.</p>                        
+                        <p class="mb-5">La ingeniería de software es un campo de estudio que abarca las estructuras, instrumentos y los métodos utilizados en el desarrollo de programas informáticos. Por tanto, la ingeniería del software es una rama de la ingeniería que desarrolla y gestiona sistemas de software utilizando técnicas y experimentos de la informática, la gestión de proyectos y otras disciplinas.</p>                        
                         <a href="about.html" class="btn btn-primary">Continue...</a>
                     </section>
                 </main>
@@ -83,7 +83,7 @@ https://templatemo.com/tm-550-diagoona
             </div>        
             <div class="tm-col-right tm-col-footer">
                 <footer class="tm-site-footer text-right">
-                    <p class="mb-0">Copyright 2020 Diagoona Co. 
+                    <p class="mb-0"> Grupo:2522IS 
                     
                     | Design: <a rel="nofollow" target="_parent" href="https://templatemo.com" class="tm-text-link">TemplateMo</a></p>
                 </footer>
