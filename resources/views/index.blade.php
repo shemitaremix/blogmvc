@@ -42,16 +42,16 @@ https://templatemo.com/tm-550-diagoona
                         <div class="collapse navbar-collapse tm-nav" id="navbar-nav">
                             <ul class="navbar-nav text-uppercase">
                                 <li class="nav-item active">
-                                    <a class="nav-link tm-nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                                    <a class="nav-link tm-nav-link" href="{{route('principal')}}">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="about.html">About</a>
+                                    <a class="nav-link tm-nav-link" href="{{route('sobre')}}">About</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="services.html">Services</a>
+                                    <a class="nav-link tm-nav-link" href="{{route('serv')}}">Services</a>
                                 </li>                            
                                 <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="contact.html">Contact</a>
+                                    <a class="nav-link tm-nav-link" href="{{route('contacto')}}">Contact</a>
                                 </li>
                             </ul>                            
                         </div>                        
