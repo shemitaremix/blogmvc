@@ -26,8 +26,8 @@ https://templatemo.com/tm-550-diagoona
                     <div class="tm-site-header media">
                         <i class="fas fa-umbrella-beach fa-3x mt-1 tm-logo"></i>
                         <div class="media-body">
-                            <h1 class="tm-sitename text-uppercase">diagoona</h1>
-                            <p class="tm-slogon">new bootstrap template</p>
+                            <h1 class="tm-sitename text-uppercase">INGENIERIA</h1>
+                            <p class="tm-slogon">EN SOFTWARE</p>
                         </div>        
                     </div>
                 </div>
@@ -41,7 +41,7 @@ https://templatemo.com/tm-550-diagoona
                         <div class="collapse navbar-collapse tm-nav" id="navbar-nav">
                             <ul class="navbar-nav text-uppercase">
                                 <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="{{route('principal')}}">Home</a>
+                                    <a class="nav-link tm-nav-link" href="{{route('principal')}}">Inicio</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link tm-nav-link" href="{{route('sobre')}}">About</a>
@@ -50,7 +50,7 @@ https://templatemo.com/tm-550-diagoona
                                     <a class="nav-link tm-nav-link" href="{{route('serv')}}">Services</a>
                                 </li>                            
                                 <li class="nav-item active">
-                                    <a class="nav-link tm-nav-link" href="{{route('contacto')}}">Contact <span class="sr-only">(current)</span></a>
+                                    <a class="nav-link tm-nav-link" href="{{route('contacto')}}">Contacto <span class="sr-only">(current)</span></a>
                                 </li>
                             </ul>                            
                         </div>                        
@@ -62,20 +62,20 @@ https://templatemo.com/tm-550-diagoona
                 <div class="tm-col-left"></div>
                 <main class="tm-col-right tm-contact-main"> <!-- Content -->
                     <section class="tm-content tm-contact">
-                        <h2 class="mb-4 tm-content-title">Contact Us</h2>
-                        <p class="mb-85">Etiam et egestas arcu. Fusce congue quis elit vitae commodo. Cras neque mauris, vehicula in ipsum sit amet, faucibus aliquam arcu.</p>
+                        <h2 class="mb-4 tm-content-title">Contactanos</h2>
+                        <p class="mb-85"></p>
                         <form id="contact-form" action="" method="POST">
                             <div class="form-group mb-4">
-                                <input type="text" name="name" class="form-control" placeholder="Name" required="" />
+                                <input type="text" name="Nombre" class="form-control" placeholder="Nombre" required="" />
                             </div>
                             <div class="form-group mb-4">
                                 <input type="email" name="email" class="form-control" placeholder="Email" required="" />
                             </div>
                             <div class="form-group mb-5">
-                                <textarea rows="6" name="message" class="form-control" placeholder="Message..." required=""></textarea>
+                                <textarea rows="6" name="Mensaje" class="form-control" placeholder="Mensaje" required=""></textarea>
                             </div>
                             <div class="text-right">
-                                <button type="submit" class="btn btn-big btn-primary">Send It</button>
+                                <button type="submit" class="btn btn-big btn-primary">enviar</button>
                             </div>
                         </form>
                     </section>

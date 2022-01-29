@@ -27,8 +27,8 @@ https://templatemo.com/tm-550-diagoona
                     <div class="tm-site-header media">
                         <i class="fas fa-umbrella-beach fa-3x mt-1 tm-logo"></i>
                         <div class="media-body">
-                            <h1 class="tm-sitename text-uppercase">diagoona</h1>
-                            <p class="tm-slogon">new bootstrap template</p>
+                            <h1 class="tm-sitename text-uppercase">INGENIERIA</h1>
+                            <p class="tm-slogon">EN SOFTWARE</p>
                         </div>        
                     </div>
                 </div>
@@ -42,7 +42,7 @@ https://templatemo.com/tm-550-diagoona
                         <div class="collapse navbar-collapse tm-nav" id="navbar-nav">
                             <ul class="navbar-nav text-uppercase">
                                 <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="{{route('principal')}}">Home</a>
+                                    <a class="nav-link tm-nav-link" href="{{route('principal')}}">Inicio</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link tm-nav-link" href="{{route('sobre')}}">About</a>
@@ -51,7 +51,7 @@ https://templatemo.com/tm-550-diagoona
                                     <a class="nav-link tm-nav-link" href="{{route('serv')}}">Services <span class="sr-only">(current)</span></a>
                                 </li>                            
                                 <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="{{route('contacto')}}">Contact</a>
+                                    <a class="nav-link tm-nav-link" href="{{route('contacto')}}">Contacto</a>
                                 </li>
                             </ul>                            
                         </div>                        
