@@ -19,7 +19,7 @@
       <article>
         <h3 class="heading">@yield('tituloprincipal')</h3>
         <p>@yield('descripcionvista')</p>
-        <footer><a class="btn" href="#">El tema mas reciente</a></footer>
+        <footer><a class="btn" href="{{route('primertema')}}">El tema mas reciente</a></footer>
       </article>
       <!-- ################################################################################################ -->
     </div>
@@ -34,7 +34,7 @@
     <section id="introblocks">
       <ul class="nospace group btmspace-80">
         <li class="one_third first">
-          <figure><a class="imgover" href="#"><img src="img/unidad1.1.jpg" alt=""></a>
+          <figure><a class="imgover" href="{{route('primertema')}}"><img src="img/unidad1.1.jpg" alt=""></a>
             <figcaption>
               <h6 class="heading">@yield('primerparcial')</h6>
               <div>

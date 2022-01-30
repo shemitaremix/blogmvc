@@ -32,3 +32,7 @@ Route::get('/contact', function () {
 Route::get('/temas', function () {
     return view('layout.layoutemas');
 })-> name('layout');
+
+Route::get('/fundamentos-arquitectura', function () {
+    return view('sidebar-left');
+})-> name('primertema');
