@@ -35,16 +35,15 @@ Licence URI: https://www.os-templates.com/template-terms
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- Top Background Image Wrapper -->
-<div class="bgded" style="background-image:url('../images/demo/backgrounds/01.png');"> 
-  <!-- ################################################################################################ -->
+<div class="bgded" style="background-image:url('img/unidad1fondo.png');"> 
   
-  <!-- ################################################################################################ -->
-  <!-- ################################################################################################ -->
-  <!-- ################################################################################################ -->
   <div class="overlay">
-    <div id="breadcrumb" class="hoc clear"> 
+    <div id="pageintro" class="hoc clear"> 
       <!-- ################################################################################################ -->
-      <h6 class="heading">Sidebar Left</h6>
+      <article>
+        <h3 class="heading">Fundamentos de arquitectura de software</h3>
+        <p>Primer Unidad</p>
+      </article>
       <!-- ################################################################################################ -->
     </div>
   </div>
@@ -73,7 +72,7 @@ Licence URI: https://www.os-templates.com/template-terms
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/pedrito.jfif" alt=""></figure>
                 <address>
                 By <a href="#">Pedro Fernandez</a>
                 </address>
@@ -87,7 +86,7 @@ Licence URI: https://www.os-templates.com/template-terms
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/scarlet.jpg" alt=""></figure>
                 <address>
                 By <a href="#">Scarlett Johansson</a>
                 </address>
@@ -101,7 +100,7 @@ Licence URI: https://www.os-templates.com/template-terms
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/lana.jpg" alt=""></figure>
                 <address>
                 By <a href="#">Lana Rhoades</a>
                 </address>
@@ -154,7 +153,7 @@ Licence URI: https://www.os-templates.com/template-terms
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/julion.jfif" alt=""></figure>
                 <address>
                 By <a href="#">Julion Alvarez</a>
                 </address>
@@ -168,9 +167,9 @@ Licence URI: https://www.os-templates.com/template-terms
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/mia.jpeg" alt=""></figure>
                 <address>
-                By <a href="#">Mia Khalifa</a>
+                 <a href="#">Mia Khalifa</a>
                 </address>
                 <time datetime="2045-04-06T08:15+00:00">Friday, 6<sup>th</sup> April 2045 @08:15:00</time>
               </header>
@@ -182,7 +181,7 @@ Licence URI: https://www.os-templates.com/template-terms
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/Johnny.png" alt=""></figure>
                 <address>
                 By <a href="#">Jhonny Sins</a>
                 </address>
@@ -194,7 +193,13 @@ Licence URI: https://www.os-templates.com/template-terms
             </article>
           </li>
         </ul>
-
+      </div>
+    </div>
+  </main>
+</div>
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <div class="content three_quarter"> 
         <h1> - Conceptos de cliente y servidor</h1>
       <img class="imgr borderedbox inspace-5" src="../img/client.jpg" alt="">
       <p>Importancia del modelo cliente servidor</p>
