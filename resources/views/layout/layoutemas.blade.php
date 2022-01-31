@@ -44,7 +44,20 @@
           </figure>
         </li>
         <li class="one_third">
-          <figure><a class="imgover" href="#"><img src="img/unidad2.jpg" alt=""></a>
+          <figure><a class="imgover" href="" ><img src="img/unidad2.jpg" alt="" id="marcado"></a>
+            <script>
+              $("#marcado").on("click",myFuncion())
+
+                function myFuncion(){
+                      Swal.fire({
+                        icon: 'error',
+                        title: 'Oops...',
+                        text: 'Something went wrong!',
+                        footer: '<a href="">Why do I have this issue?</a>'
+                      })
+
+              }
+            </script>
             <figcaption>
               <h6 class="heading">@yield('segundoparcial')</h6>
               <div>
@@ -95,6 +108,7 @@
  
 
 <!-- JAVASCRIPTS -->
+<script src="sweetalert2.all.min.js"></script>
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery.backtotop.js"></script>
 <script src="js/jquery.mobilemenu.js"></script>
