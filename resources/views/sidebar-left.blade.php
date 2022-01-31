@@ -332,58 +332,72 @@ Licence URI: https://www.os-templates.com/template-terms
     
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-      <h1> - tercer tema</h1>
+      <h1> - Arquitectura Cliente-Servidor</h1>
       <img class="imgr borderedbox inspace-5" src="../images/demo/imgr.gif" alt="">
-      <p>Aliquatjusto quisque nam consequat doloreet vest orna partur scetur portortis nam. Metadipiscing eget facilis elit sagittis felisi eger id justo maurisus convallicitur.</p>
-      <p>Dapiensociis <a href="#">temper donec auctortortis cumsan</a> et curabitur condis lorem loborttis leo. Ipsumcommodo libero nunc at in velis tincidunt pellentum tincidunt vel lorem.</p>
-      <img class="imgl borderedbox inspace-5" src="../images/demo/imgl.gif" alt="">
-      <p>This is a W3C compliant free website template from <a href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a>. For full terms of use of this template please read our <a href="https://www.os-templates.com/template-terms">website template licence</a>.</p>
-      <p>You can use and modify the template for both personal and commercial use. You must keep all copyright information and credit links in the template and associated files. For more website templates visit our <a href="https://www.os-templates.com/">free website templates</a> section.</p>
-      <p>Portortornec condimenterdum eget consectetuer condis consequam pretium pellus sed mauris enim. Puruselit mauris nulla hendimentesque elit semper nam a sapien urna sempus.</p>
+      <p>En una arquitectura Cliente-Servidor existe un servidor y múltiples clientes que se conectan al servidor para recuperar todos los recursos necesarios para funcionar, en este sentido, el cliente solo es una capa para representar los datos y se detonan acciones para modificar el estado del servidor, mientras que el servidor es el que hace todo el trabajo pesado.
+        En esta arquitectura, el servidor deberá exponer un mecanismo que permite a los clientes conectarse, que por lo general es TCP/IP, esta comunicación permitirá una comunicación continua y bidireccional, de tal forma que el cliente puede enviar y recibir datos del servidor y viceversa.</p>
+      <p>Los protocolos para la transmisión de datos en internet más importantes son TCP (Protocolo de Control de Transmisión) e IP (Protocolo de Internet). De manera conjunta (TCP/IP) podemos enlazar los dispositivos que acceden a la red, algunos otros protocolos de comunicación asociados a internet son POP, SMTP y HTTP.</p>
+      <img class="imgl borderedbox inspace-5" src="../img/cliente.PNG" alt="">
+      <p>Existen varios tipos de protocolos de red: </p>
+      <p>Protocolos de comunicación de red: protocolos de comunicación de paquetes básicos como TCP / IP y HTTP.</p>
+      <p>Protocolos de seguridad de red: implementan la seguridad en las comunicaciones de red entre servidores, incluye HTTPS, SSL y SFTP.</p>
+      <p>Protocolos de gestión de red: proporcionan mantenimiento y gobierno de red, incluyen SNMP e ICMP.
+        Un grupo de protocolos de red que trabajan juntos en los niveles superior e inferior comúnmente se les denomina familia de protocolos.</p>
+      <p>Muchos sistemas reales comparten importantes propiedades subyacentes y dan lugar a problemas de diseño comunes Se pueden describir modelos o paradigmas de arquitectura software-</p>
+      <ul>
+    
+      <li> Los modelos están pensados para proporcionar una descripción abstracta, simplificada pero consistente de cada aspecto relevante del diseño de un sistema.</li>
+      <li>Un servicio es una parte diferente de un sistema de computadores que gestiona una colección de recursos relacionados y presenta su funcionalidad a los usuarios y aplicaciones.</li>
+      <li>Es similar a un módulo, pero representa un nivel superior, ya que un servicio suele estar compuesto por varios módulos software y puede que también componentes hardware.</li>
+      <li>Así se aplican todos los conceptos de abstracción de datos, específicamente el concepto de interfaz pública.</li>.
+</ul>
+      <p> Un diagrama de componentes proporciona una visión general del sistema y documenta la organización de los componentes del sistema y sus relaciones y dependencias mutuas. Los diagramas de componentes proporcionan una visión orientada a la ejecución, es decir, dan al desarrollador información sobre si un sistema funciona de forma coherente y cumple sus tareas y objetivos.</p>
+      <p> Los objetivos y propósitos más importantes de este tipo de diagrama son el modelado de sistemas de software basados en componentes, la especificación de arquitecturas de software y la división de sistemas en subsistemas (por ejemplo, interfaz gráfica de usuario/IGU, ámbito empresarial y capa de persistencia con base de datos relacional). Asimismo, se asignan tareas y funciones concretas a las subáreas y sus interfaces dentro del sistema.</p>
       
+      <br></br>
       <div id="comments">
         <h2>Comments</h2>
         <ul>
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/frida.PNG" alt=""></figure>
                 <address>
-                By <a href="#">A Name</a>
+                By <a href="#">frida khalo</a>
                 </address>
                 <time datetime="2045-04-06T08:15+00:00">Friday, 6<sup>th</sup> April 2045 @08:15:00</time>
               </header>
               <div class="comcont">
-                <p>This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.</p>
+                <p>excelente, tanta informacion hace que me duela la columna</p>
               </div>
             </article>
           </li>
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/iron.PNG" alt=""></figure>
                 <address>
-                By <a href="#">A Name</a>
+                By <a href="#">iron man</a>
                 </address>
                 <time datetime="2045-04-06T08:15+00:00">Friday, 6<sup>th</sup> April 2045 @08:15:00</time>
               </header>
               <div class="comcont">
-                <p>This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.</p>
+                <p>interesante...</p>
               </div>
             </article>
           </li>
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/tom.PNG" alt=""></figure>
                 <address>
-                By <a href="#">A Name</a>
+                By <a href="#">tom holland </a>
                 </address>
                 <time datetime="2045-04-06T08:15+00:00">Friday, 6<sup>th</sup> April 2045 @08:15:00</time>
               </header>
               <div class="comcont">
-                <p>This is an example of a comment made on a post. You can either edit the comment, delete the comment or reply to the comment. Use this as a place to respond to the post or to share what you are thinking.</p>
-              </div>
+                <p>informacion que salva materias </p>
+                   </div>
             </article>
           </li>
         </ul>
