@@ -67,7 +67,7 @@ https://templatemo.com/tm-550-diagoona
                         <p class="mb-5">es una disciplina que implica el uso de estructuras, herramientas y técnicas para construir programas informáticos.</p>
                         <hr class="mb-5">
                         <p class="mb-5">La ingeniería de software es un campo de estudio que abarca las estructuras, instrumentos y los métodos utilizados en el desarrollo de programas informáticos. Por tanto, la ingeniería del software es una rama de la ingeniería que desarrolla y gestiona sistemas de software utilizando técnicas y experimentos de la informática, la gestión de proyectos y otras disciplinas.</p>                        
-                        <a href="about.html" class="btn btn-primary">Continue...</a>
+                        <a href="{{route('sobre')}}" class="btn btn-primary">Continue...</a>
                     </section>
                 </main>
             </div>
