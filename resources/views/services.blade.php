@@ -78,7 +78,7 @@ https://templatemo.com/tm-550-diagoona
                             <img src="img/monse1.jpg" alt="Image" class="tm-service-img-r">
                         </div>
                         <div class="media my-3 tm-service-media tm-service-media-img-l">
-                            <img src="img/jpalto.jpg" alt="Image" class="tm-service-img">
+                            <img src="img/palto.jpg" alt="Image" class="tm-service-img">
                             <div class="media-body tm-service-text">
                                 <h2 class="mb-4 tm-content-title">Juan Pablo Paredes Mendoza</h2>
                                 
