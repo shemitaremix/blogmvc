@@ -74,9 +74,7 @@ https://templatemo.com/tm-550-diagoona
                             <div class="form-group mb-5">
                                 <textarea rows="6" name="Mensaje" class="form-control" placeholder="Mensaje" required=""></textarea>
                             </div>
-                            <div class="text-right">
-                                <button  class="btn btn-big btn-primary">enviar</button>
-                            </div>
+                            
                         </form>
                     </section>
                 </main>
