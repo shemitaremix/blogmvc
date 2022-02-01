@@ -10,7 +10,7 @@ Licence URI: https://www.os-templates.com/template-terms
 <html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
-<title>Nocobot | Pages | Sidebar Left</title>
+<title>2522 - Fundamentos</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="css/layout.css" rel="stylesheet" type="text/css" media="all">
@@ -222,7 +222,7 @@ Licence URI: https://www.os-templates.com/template-terms
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/mr.png" alt=""></figure>
                 <address>
                 By <a href="#">Jose Luis</a>
                 </address>
@@ -236,7 +236,7 @@ Licence URI: https://www.os-templates.com/template-terms
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/misha.jpg" alt=""></figure>
                 <address>
                 By <a href="#">Misha Cross</a>
                 </address>
@@ -250,7 +250,7 @@ Licence URI: https://www.os-templates.com/template-terms
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/alexmarin.jpg" alt=""></figure>
                 <address>
                 By <a href="#">Alex Marin</a>
                 </address>
@@ -279,7 +279,7 @@ Licence URI: https://www.os-templates.com/template-terms
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/riley.jpg" alt=""></figure>
                 <address>
                 By <a href="#">Riley Reid</a>
                 </address>
@@ -293,7 +293,7 @@ Licence URI: https://www.os-templates.com/template-terms
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/kalimba.jpeg" alt=""></figure>
                 <address>
                 By <a href="#">Kalimba</a>
                 </address>
@@ -307,7 +307,7 @@ Licence URI: https://www.os-templates.com/template-terms
           <li>
             <article>
               <header>
-                <figure class="avatar"><img src="../images/demo/avatar.png" alt=""></figure>
+                <figure class="avatar"><img src="img/Miguel.jpg" alt=""></figure>
                 <address>
                 By <a href="#">Miguel Hidalgo</a>
                 </address>

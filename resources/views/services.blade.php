@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Diagoona - Services Page</title>
+    <title>2522 - Desarrolladores</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" /> <!-- https://fonts.google.com/ -->
     <link href="css/bootstrap.min.css" rel="stylesheet" /> <!-- https://getbootstrap.com/ -->
     <link href="fontawesome/css/all.min.css" rel="stylesheet" /> <!-- https://fontawesome.com/ -->
@@ -45,13 +45,13 @@ https://templatemo.com/tm-550-diagoona
                                     <a class="nav-link tm-nav-link" href="{{route('principal')}}">Inicio</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="{{route('sobre')}}">About</a>
+                                    <a class="nav-link tm-nav-link" href="{{route('sobre')}}">Cliente-Servidor</a>
                                 </li>
                                 <li class="nav-item active">
-                                    <a class="nav-link tm-nav-link" href="{{route('serv')}}">Services <span class="sr-only">(current)</span></a>
+                                    <a class="nav-link tm-nav-link" href="{{route('serv')}}">Desarrolladores <span class="sr-only">(current)</span></a>
                                 </li>                            
                                 <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="{{route('contacto')}}">Contacto</a>
+                                    <a class="nav-link tm-nav-link" href="{{route('contacto')}}">Contactanos</a>
                                 </li>
                             </ul>                            
                         </div>                        
@@ -97,22 +97,7 @@ https://templatemo.com/tm-550-diagoona
             </div>
         </div>        
 
-        <div class="tm-row">
-            <div class="tm-col-left text-center">            
-                <ul class="tm-bg-controls-wrapper">
-                    <li class="tm-bg-control active" data-id="0"></li>
-                    <li class="tm-bg-control" data-id="1"></li>
-                    <li class="tm-bg-control" data-id="2"></li>
-                </ul>            
-            </div>        
-            <div class="tm-col-right tm-col-footer">
-                <footer class="tm-site-footer text-right">
-                    <p class="mb-0">Copyright 2020 Diagoona Co. 
-                    
-                    | Design: <a rel="nofollow" target="_parent" href="https://templatemo.com" class="tm-text-link">TemplateMo</a></p>
-                </footer>
-            </div>  
-        </div>        
+        
 
         <!-- Diagonal background design -->
         <div class="tm-bg">

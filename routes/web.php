@@ -17,15 +17,15 @@ Route::get('/', function () {
     return view('index');
 })-> name('principal');
 
-Route::get('/about', function () {
+Route::get('/cliente-servidor', function () {
     return view('about');
 })-> name('sobre');
 
-Route::get('/services', function () {
+Route::get('/desarrolladores', function () {
     return view('services');
 })-> name('serv');
 
-Route::get('/contact', function () {
+Route::get('/contactanos', function () {
     return view('contact');
 })-> name('contacto');
 

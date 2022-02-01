@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Diagoona - About Page</title>
+    <title>2522 - Cliente servidor</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" /> <!-- https://fonts.google.com/ -->
     <link href="css/bootstrap.min.css" rel="stylesheet" /> <!-- https://getbootstrap.com/ -->
     <link href="fontawesome/css/all.min.css" rel="stylesheet" /> <!-- https://fontawesome.com/ -->
@@ -46,13 +46,13 @@ https://templatemo.com/tm-550-diagoona
                                     <a class="nav-link tm-nav-link" href="{{route('principal')}}">Inicio</a>
                                 </li>
                                 <li class="nav-item active">
-                                    <a class="nav-link tm-nav-link" href="{{route('sobre')}}">About <span class="sr-only">(current)</span></a>
+                                    <a class="nav-link tm-nav-link" href="{{route('sobre')}}">Cliente-Servidor <span class="sr-only">(current)</span></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="{{route('serv')}}">Services</a>
+                                    <a class="nav-link tm-nav-link" href="{{route('serv')}}">Desarrolladores</a>
                                 </li>                            
                                 <li class="nav-item">
-                                    <a class="nav-link tm-nav-link" href="{{route('contacto')}}">Contacto</a>
+                                    <a class="nav-link tm-nav-link" href="{{route('contacto')}}">Contactanos</a>
                                 </li>
                             </ul>                            
                         </div>                        
@@ -69,13 +69,13 @@ https://templatemo.com/tm-550-diagoona
              En este apartado se obesrvara todo lo aprendido a lo largo del cuatrimestre de misma manera que se observara detalladamente en investigaciones los conceptos mas claros
          @endsection
         @section('primerparcial')
-            Fundamentos de la arquitectura cliente-servidor
+        Unidad 1:Fundamentos de la arquitectura cliente-servidor
         @endsection
         @section('segundoparcial')
-            Modelo Cliente-servidor
+        Unidad 2:Modelo Cliente-servidor
         @endsection
         @section('tercerparcial')
-            Transacciones
+        Unidad 3:Transacciones
         @endsection
         <!-- Diagonal background design -->
         <div class="tm-bg">
