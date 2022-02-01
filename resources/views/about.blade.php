@@ -62,21 +62,22 @@ https://templatemo.com/tm-550-diagoona
             
                 
               
-         @section('tituloprincipal')
-             Programacion Cliente Servidor
-         @endsection
-         @section('descripcionvista')
-             En este apartado se obesrvara todo lo aprendido a lo largo del cuatrimestre de misma manera que se observara detalladamente en investigaciones los conceptos mas claros
-         @endsection
-        @section('primerparcial')
-        Unidad 1:Fundamentos de la arquitectura cliente-servidor
-        @endsection
-        @section('segundoparcial')
-        Unidad 2:Modelo Cliente-servidor
-        @endsection
-        @section('tercerparcial')
-        Unidad 3:Transacciones
-        @endsection
+            @section('tituloprincipal')
+                Programacion Cliente Servidor
+            @endsection
+            @section('descripcionvista')
+                En este apartado se obesrvara todo lo aprendido a lo largo del cuatrimestre de misma manera que se observara detalladamente en investigaciones los conceptos mas claros
+            @endsection
+            @section('primerparcial')
+            Unidad 1:Fundamentos de la arquitectura cliente-servidor
+            @endsection
+            @section('segundoparcial')
+            Unidad 2:Modelo Cliente-servidor
+            @endsection
+            @section('tercerparcial')
+            Unidad 3:Transacciones
+            @endsection
+        </div>
         <!-- Diagonal background design -->
         <div class="tm-bg">
             <div class="tm-bg-left"></div>
