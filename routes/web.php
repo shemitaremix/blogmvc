@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\publicacionController;
 
 /*
 |--------------------------------------------------------------------------
@@ -33,10 +34,6 @@ Route::get('/temas', function () {
     return view('layout.layoutemas');
 })-> name('layout');
 
-Route::get('/fundamentos-arquitectura', function () {
-    return view('sidebar-left');
-})-> name('primertema');
+Route::get('/fundamentos-arquitectura', [publicacionController::class, 'indexprimeruni'])->name('primertema');
 
-Route::get('/modelocliente-servidor', function () {
-    return view('sidebar-left');
-})-> name('segundotema');
+Route::get('/modelocliente-servidor', [publicacionController::class, 'segundauni'])->name('segundotema');
