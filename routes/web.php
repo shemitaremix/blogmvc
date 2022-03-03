@@ -34,6 +34,7 @@ Route::get('/temas', function () {
     return view('layout.layoutemas');
 })-> name('layout');
 
-Route::get('/fundamentos-arquitectura', [publicacionController::class, 'indexprimeruni'])->name('primertema');
+Route::get('/fundamentos-arquitectura', [publicacionController::class, 'primeruni'])->name('primertema');
+
 
 Route::get('/modelocliente-servidor', [publicacionController::class, 'segundauni'])->name('segundotema');
