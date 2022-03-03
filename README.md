@@ -24,8 +24,8 @@ git push
 
 ![Tacos](https://www.redeweb.com/wp-content/uploads/2021/03/software-1.jpg "Laravel")
 
-## Muchas gracias por haber sido parte de esta api, espero juntos la podamos mejorar :octocat:
-Esta api fue realizada por:
+## Muchas gracias por haber sido parte de esta api, espero juntos la podamos mejorar :desert_island:
+Esta app fue realizada por:
 - :frowning_person: Monserrat Bello Arizmendi
 - :frowning_man: Juan Pablo Paredez
 
