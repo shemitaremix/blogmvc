@@ -36,3 +36,7 @@ Route::get('/temas', function () {
 Route::get('/fundamentos-arquitectura', function () {
     return view('sidebar-left');
 })-> name('primertema');
+
+Route::get('/modelocliente-servidor', function () {
+    return view('sidebar-left');
+})-> name('segundotema');

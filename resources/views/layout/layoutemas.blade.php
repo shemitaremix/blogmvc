@@ -44,7 +44,7 @@
           </figure>
         </li>
         <li class="one_third">
-          <figure><a class="imgover" href="" ><img src="img/unidad2.jpg" alt="" id="marcado"></a>
+          <figure><a class="imgover" href="{{route('segundotema')}}" ><img src="img/unidad2.jpg" alt="" id="marcado"></a>
             <script>
               $("#marcado").on("click",myFuncion())
 
