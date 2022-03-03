@@ -1,4 +1,4 @@
-# Api tacos :taco:
+# Blog-Fogoso :hot_face:
 
 ##  Aqui se encuentra el link del dominio de la aplicacion :hot_face:
 http://blog-clienteservidor.herokuapp.com
