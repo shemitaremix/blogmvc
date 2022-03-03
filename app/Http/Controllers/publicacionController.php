@@ -18,12 +18,18 @@ class publicacionController extends Controller
     
 
     public function segundauni(){
-        $publicacion = Publicacion::find(10);
-        $nombre2 = $publicacion->nombre;
-        $titulo2 = $publicacion->titulo;
-        $contenido2 = $publicacion->contenido;
-
-        return view('unidad2',['nombre'=>$nombre2,'titulo' => $titulo2, 'contenido' =>$contenido2 ]);
+        
+        for($i=10;$i<17;$i++){
+            $publicacion = Publicacion::find($i);
+            $publicaciones[$i] = [
+            
+                'nombre' => $publicacion['nombre'],
+                'titulo' => $publicacion['titulo'],
+                'contenido' => $publicacion['contenido'],
+            
+            ];
+        }
+             return view('unidad2',['publicaciones' => $publicaciones]);
         
     }
 
